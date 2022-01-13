@@ -154,8 +154,8 @@ if __name__ == '__main__':
 在編寫過程都是寫好就直接執行測式，修修改改，因為還只是一支程式算不上軟體，所以只有大改動時會留下備份檔案，以免想要退回，而下學期要整合時，可能就要先做測試檔，而非每次都直接執行來看錯誤在哪。<br>
 以下是執行過程的截圖與影片<br>
 
-![](https://github.com/kalen2019/topic/blob/main/demo/messageImage_1640553513364.jpg)
-![](https://github.com/kalen2019/topic/blob/main/demo/messageImage_1640553541683.jpg)
-![](https://github.com/kalen2019/topic/blob/main/demo/messageImage_1640553572531.jpg)
-[mbot](https://github.com/kalen2019/topic/blob/main/demo/mbot_demo.mp4)
-[temp](https://github.com/kalen2019/topic/blob/main/demo/temp_demo.mp4)
+![](https://github.com/kalen2019/topic/blob/main/demo/messageImage_1640553513364.jpg)<br>
+![](https://github.com/kalen2019/topic/blob/main/demo/messageImage_1640553541683.jpg)<br>
+![](https://github.com/kalen2019/topic/blob/main/demo/messageImage_1640553572531.jpg)<br>
+![mbot](https://github.com/kalen2019/topic/blob/main/demo/mbot_demo.mp4)<br>
+![temp](https://github.com/kalen2019/topic/blob/main/demo/temp_demo.mp4)<br>
